@@ -8,7 +8,7 @@ I've been learning to code for 6 months, after switching careers. I started with
 
 * 🌍  I'm based in Hồ Chí Minh city, Việt Nam
 * ✉️  You can contact me at [tranviquanghuy@gmail.com](mailto:tranviquanghuy@gmail.com)
-* 🚀  I'm currently working on [Marketplace app](http://marketplace-front-end-2024.netlify.app)
+* 🚀  I'm currently working on [BuyIt app](http://marketplace-front-end-2024.netlify.app)
 * 🧠  I'm learning Typescript, advanced Javascript
 * 🤝  I'm open to collaborating on Projects
 
