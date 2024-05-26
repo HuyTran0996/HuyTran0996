@@ -7,9 +7,9 @@ Front-end Developer
 Passionate about web-development, I blend creativity with technical expertise to deliver outstanding results. Committed to staying current with industry trends and continuously improving my skills.
 
 * 🌍  I'm based in Hồ Chí Minh city, Việt Nam
-* 🖥️  See my portfolio at [https://huytran-dev.netlify.app/](http://https://huytran-dev.netlify.app/)
+* 🖥️  See my portfolio at [https://huytran-dev.netlify.app/](https://huytran-dev.netlify.app/)
 * ✉️  You can contact me at [tranviquanghuy@gmail.com](mailto:tranviquanghuy@gmail.com)
-* 🚀  I'm currently working on [Marketplace app](http://marketplace-front-end-2024.netlify.app)
+* 🚀  I'm currently working on [Marketplace app](https://marketplace-front-end-2024.netlify.app)
 * 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on Projects
 
