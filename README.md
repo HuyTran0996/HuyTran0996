@@ -10,7 +10,7 @@ Passionate about web-development, I blend creativity with technical expertise to
 * 🖥️  See my portfolio at [https://huytran-dev.netlify.app/](https://huytran-dev.netlify.app/)
 * ✉️  You can contact me at [tranviquanghuy@gmail.com](mailto:tranviquanghuy@gmail.com)
 * 🚀  I'm currently working on [The Movie app](https://the-movie-2nd.netlify.app/)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning Next.JS
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
