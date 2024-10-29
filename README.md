@@ -9,7 +9,7 @@ Passionate about web-development, I blend creativity with technical expertise to
 * 🌍  I'm based in Hồ Chí Minh city, Việt Nam
 * 🖥️  See my portfolio at [https://huytran-dev.netlify.app/](https://huytran-dev.netlify.app/)
 * ✉️  You can contact me at [tranviquanghuy@gmail.com](mailto:tranviquanghuy@gmail.com)
-* 🚀  I'm currently working on [The Movie app](https://the-movie-2nd.netlify.app/)
+* 🚀  I'm currently working on [OS Store](https://os-stores.netlify.app/)
 * 🧠  I'm learning Next.JS
 * 🤝  I'm open to collaborating on Projects
 
